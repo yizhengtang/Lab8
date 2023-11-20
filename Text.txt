@@ -1,2 +1,4 @@
 Hello.
-My name is Michael.
+My name is Michael.Hello
+My name is Yi Zheng Tang.
+This is FileWriter method.

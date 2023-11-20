@@ -12,7 +12,8 @@ public class WriteToFile {
             FileWriter addText = new FileWriter(myFile, true);
 
             addText.write("Hello\n");
-            addText.write("My name is Yi Zheng Tang.");
+            addText.write("My name is Yi Zheng Tang.\n");
+            addText.write("This is FileWriter method.");
             addText.close();
             System.out.println("Text added to file successfully!");
 
