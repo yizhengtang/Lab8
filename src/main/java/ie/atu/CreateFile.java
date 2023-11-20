@@ -1,5 +1,4 @@
 package ie.atu;
-
 import java.io.File;
 import java.io.IOException;
 
@@ -29,6 +28,5 @@ public class CreateFile {
             System.out.println("An error occurred while creating the file.");
             e.printStackTrace();
         }
-
     }
 }
